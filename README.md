@@ -1,5 +1,5 @@
 # Mach3 + Ethernet SmoothStepper on Linux (Bazzite / Fedora)
-
+![image](https://github.com/olemlong/Mach3Linux/blob/d9d23ae428c61532a0d8ca9162f1fd4be8fb2a45/Screenshot_20261127_070730.png)
 A script that installs Mach3 in Lutris (Wine), with the setup needed for Mach3 to draw
 its screen correctly and talk to an Ethernet SmoothStepper (ESS).
 
